@@ -1,0 +1,58 @@
+/*body{
+    width:99%;
+    background-color: rgb(242, 195, 149); 
+}
+*/
+.cabecera{
+    width: 90%;
+    text-align: center;
+    font-family:'Arizonia', cursive;
+    font-style: italic;
+
+}
+/*
+.menu{
+    background-color: rgba(229, 163, 102, 0.739);
+    width: 90%;
+    text-align: center;
+    font-family:'Arizonia', cursive;
+    font-style: italic,bold;
+    
+}
+
+.contenido{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("\img\candlelight-3612508_1280.jpg");
+    width: 90%
+}
+
+.contenido .principal{
+    background-color: rgba(235, 118, 9, 0.733);
+    width: 65%;
+    float: left;
+    padding: 1px;
+    text-align: justify;
+    text-justify: inter-word;
+
+}
+
+.contenido .vacio{
+    width: 1%;
+}
+
+
+.contenido .secundario{
+    background-color: rgba(235, 118, 9, 0.733);
+    width: 32%;
+    float: left;
+    padding: 1px;
+    text-align: justify;
+    text-justify: inter-word;
+
+}*/
+.titulo{
+    background-image:url(/img/abVXOxE_460s.jpg) ;
+    border: 2px outset black;
+}
